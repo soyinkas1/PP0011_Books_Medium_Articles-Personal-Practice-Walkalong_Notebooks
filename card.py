@@ -221,6 +221,5 @@ class OldMaidGame(CardGame):
         return count
 
 
-
 game = OldMaidGame()
 game.play(['Allen', 'Jeff', 'Chris'])
